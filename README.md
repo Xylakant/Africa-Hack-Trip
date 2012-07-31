@@ -4,4 +4,4 @@ And I want to invite others to join, for the whole trip or for a shorter visit.
 
 Interested? Thoughts? Ideas?
 
-Get in touch: http://twitter.com/gr2m
+Get in touch: [@AfricaHackTrip](http://twitter.com/AfricaHackTrip)
