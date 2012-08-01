@@ -1,4 +1,8 @@
-Originally inspired by the article "[From Kenya to Madagascar: The African tech-hub boom](http://www.bbc.co.uk/news/business-18878585)" I decided to organize a trip through [Africa's Hacker Spaces](https://africahubs.crowdmap.com/). Due 2013. And yes, you're invited. Please get involved
+# Africa Hack Trip
+
+<img src="https://dl.dropbox.com/u/732913/AfricaHackTripMap.png" align="right">Originally inspired by the article "[From Kenya to Madagascar: The African tech-hub boom](http://www.bbc.co.uk/news/business-18878585)" I decided to organize a trip through [Africa's Hacker Spaces](https://africahubs.crowdmap.com/). Due 2013. And yes, you're invited. Please get involved/.
+
+The idea is to visit some of the emerging tech hubs and hacking spaces in Africa, exchange experiences and hack together on new ideas, but also dive into new contries and cultures.
 
 ## Candidates
 
